@@ -188,3 +188,9 @@ f40610 chart=HCF > HCB kick=HK D=12 gap=1 result=SLAP-M
 - The frame rules for special-move input in 3rd Strike are based on research by the Japanese 3rd Strike data site **Game Restaurant**.
 - The neutral b+MP kara C&DB was discovered by players in the UAE around 2014 and popularized by rKf and Goldriver.
  
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
